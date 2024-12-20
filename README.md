@@ -2,8 +2,6 @@
 
 DenseCpG: Single-Cell Methylome Imputation with Dense Block
 
-![image-20241220231733976](https://lizaiyuan0804.oss-cn-chengdu.aliyuncs.com/tempPics/image-20241220231733976.png)
-
 # Data
 
 > **Suggestions:**
